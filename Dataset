@@ -1,0 +1,7 @@
+## 📁 Dataset
+The dataset used in this project is too large to be hosted directly on GitHub.
+
+You can download the dataset from:
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
+After downloading, place the file inside the `data/` directory.
